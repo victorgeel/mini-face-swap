@@ -1,0 +1,6 @@
+insightface
+onnxruntime-silicon
+gradio
+opencv-python
+numpy
+huggingface_hub
